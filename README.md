@@ -21,7 +21,7 @@ authJunson.inc.php
 
 html/
 
-accountedit.php, accountlist.php, accountupt.php, chklogin.php, groupedit.php, grouplevel.php, groupleveledit.php, grouplevelupt.php, grouplist.php, groupupt.php, index.php, jquery.multi-select.js, leveledit.php, levellist.php, levelmenu.php, levelupt.php, login.php, logout.php, mesgprint.php, multi-select.css, pencil.png, randimg.php, switch.png, userlevel.php, userleveledit.php, userlevelupt.php
+accountedit.php,accountlist.php,accountupt.php,chklogin.php,groupedit.php,grouplevel.php,groupleveledit.php,grouplevelupt.php,grouplist.php,groupupt.php,index.php,jquery.multi-select.js,langedit.php,langlist.php,langupt.php,leveledit.php,levellist.php,levelmenu.php,levelupt.php,login.php,logout.php,mesgprint.php,multi-select.css,pencil.png,randimg.php,switch.png,textencode.php,userlevel.php,userleveledit.php,userlevelupt.php
 
 sql/
 
