@@ -87,7 +87,7 @@ function strfilter($val) {
 function PrintMesg($error,$mesg) {
   //echo $mesg . "\n";
   $mesg=urlencode($mesg);
-  $error=urlencode($errot);
+  $error=urlencode($error);
   header("Location: mesgprint.php?error=".$error."&msg=".$mesg);
   exit;  
 }
